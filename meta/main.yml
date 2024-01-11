@@ -1,0 +1,15 @@
+galaxy_info:
+  author: Tom Green
+
+  description: Ensure the `qemu-guest-agent` is present and enabled.
+
+  license: MIT
+
+  min_ansible_version: 2.1
+
+  galaxy_tags:
+    - qemu
+    - vm
+    - kvm
+
+dependencies: []
