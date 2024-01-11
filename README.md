@@ -24,7 +24,7 @@ Example Playbook
 ```yml
 - hosts: all
   roles:
-    - beingtomgreen.qemu-guest-agent
+    - BeingTomGreen.qemu-guest-agent
 ```
 
 License
