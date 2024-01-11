@@ -1,5 +1,2 @@
 ---
-- name: Enable QEMU guest agent
-  ansible.builtin.service:
-    name: qemu-guest-agent
-    enabled: true
+# handlers file for qemu-guest-agent
