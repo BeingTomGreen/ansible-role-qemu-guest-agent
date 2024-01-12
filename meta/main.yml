@@ -1,7 +1,7 @@
 galaxy_info:
   author: Tom Green
 
-  description: Ensure the `qemu-guest-agent` is present and enabled.
+  description: Simple Ansible role to ensure the `qemu-guest-agent` is present and enabled.
 
   license: MIT
 

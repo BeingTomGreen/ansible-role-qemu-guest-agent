@@ -1,7 +1,7 @@
 qemu-guest-agent
 =========
 
-Ensure the `qemu-guest-agent` is present and enabled.
+Simple Ansible role to ensure the `qemu-guest-agent` is present and enabled.
 
 Requirements
 ------------
