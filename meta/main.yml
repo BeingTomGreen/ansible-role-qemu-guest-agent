@@ -1,15 +1,23 @@
 galaxy_info:
   author: Tom Green
+  description: Simple Ansible role to ensure qemu-guest-agent is present and enabled..
 
-  description: Simple Ansible role to ensure the `qemu-guest-agent` is present and enabled.
+  role_name: qemu_guest_agent
+  namespace: beingtomgreen
+  standalone: true
 
   license: MIT
 
-  min_ansible_version: 2.1
+  min_ansible_version: "2.18"
 
   galaxy_tags:
     - qemu
-    - vm
+    - hypervisor
+    - emulator
+    - virtualization
     - kvm
+    - vm
 
 dependencies: []
+
+collections: []

@@ -1,0 +1,4 @@
+.venv/
+.idea/
+.ansible/
+.fact_cache/
