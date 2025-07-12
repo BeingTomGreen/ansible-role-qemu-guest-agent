@@ -2,3 +2,5 @@
 .idea/
 .ansible/
 .fact_cache/
+.vscode/
+.molecule/
