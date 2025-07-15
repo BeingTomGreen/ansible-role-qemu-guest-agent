@@ -10,7 +10,7 @@ Given that Galaxy seems to have abandoned roles, I suggest referencing this repo
 ---
 
 roles:
-  - name: qemu_guest_agent
+  - name: beingtomgreen.qemu_guest_agent
     src: https://github.com/BeingTomGreen/ansible-role-qemu-guest-agent.git
 
 collections: []
